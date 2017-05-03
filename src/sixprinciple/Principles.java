@@ -13,7 +13,7 @@ public class Principles {
  *      四：依赖倒置原则{@link DependenceInversion}
  *      五：接口隔离原则{@link InterfaceSegregation}
  *      六：迪米特原则(最少知识原则){@link LawOfDemeter}
-*/
+ */
 
 
 

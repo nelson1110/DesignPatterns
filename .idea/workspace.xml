@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="599ca55a-afbc-409f-baa4-0c61ce40a789" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sixprinciple/DependenceInversion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sixprinciple/InterfaceSegregation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sixprinciple/LawOfDemeter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sixprinciple/LawOfDemeter.java" afterPath="$PROJECT_DIR$/src/sixprinciple/LawOfDemeter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sixprinciple/Principles.java" afterPath="$PROJECT_DIR$/src/sixprinciple/Principles.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,21 +17,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Principles.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Principles.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sixprinciple/Principles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            <state relative-caret-position="255">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LawOfDemeter.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LawOfDemeter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sixprinciple/LawOfDemeter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -142,8 +140,8 @@
         <option value="$PROJECT_DIR$/src/sixprinciple/LiskovSubstitution.java" />
         <option value="$PROJECT_DIR$/src/sixprinciple/DependenceInversion.java" />
         <option value="$PROJECT_DIR$/src/sixprinciple/InterfaceSegregation.java" />
-        <option value="$PROJECT_DIR$/src/sixprinciple/Principles.java" />
         <option value="$PROJECT_DIR$/src/sixprinciple/LawOfDemeter.java" />
+        <option value="$PROJECT_DIR$/src/sixprinciple/Principles.java" />
       </list>
     </option>
   </component>
@@ -563,15 +561,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1493690455629</updated>
-      <workItem from="1493690459588" duration="16217000" />
+      <workItem from="1493690459588" duration="18719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16217000" />
+    <option name="totallyTimeSpent" value="18719000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-331" width="1936" height="1056" extended-state="6" />
+    <frame x="1358" y="-331" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -681,18 +679,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sixprinciple/Principles.java">
+    <entry file="file://$PROJECT_DIR$/src/sixprinciple/LawOfDemeter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sixprinciple/LawOfDemeter.java">
+    <entry file="file://$PROJECT_DIR$/src/sixprinciple/Principles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="255">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
           <folding />
         </state>
       </provider>
