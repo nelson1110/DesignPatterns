@@ -2,7 +2,7 @@ package sixprinciple;
 
 /**
  * Created by Niu on 2017/5/2.
- * 六大基本原則
+ * 六大基本原則（目录）
  */
 public class Principles {
 
